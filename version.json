@@ -1,9 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/peaeae314-hub/silencium-releases/releases/download/v1.0.0/Silencium-debug.apk",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/peaeae314-hub/silencium-releases/releases/download/v1.2.0/Silencium-debug.apk",
   "force": false,
-  "changelogZh": "首发：临时房间 E2EE 文字+图片；可配置中继；英/简/繁；底栏中继设置",
-  "changelogEn": "Initial: ephemeral E2EE text+images; configurable relay; en/zh-Hans/zh-Hant; bottom relay bar",
-  "changelogZhHant": "首發：臨時房間 E2EE 文字+圖片；可設定中繼；英/簡/繁；底欄中繼設定"
+  "changelogZh": "B14：断线重连宽限 60 秒，切到其他 App 再回来不易被踢出房间；手动离开仍立即拆房",
+  "changelogEn": "B14: 60s reconnect grace so switching apps no longer destroys the room; manual leave still tears down immediately",
+  "changelogZhHant": "B14：斷線重連寬限 60 秒，切到其他 App 再回來不易被踢出房間；手動離開仍立即拆房"
 }
