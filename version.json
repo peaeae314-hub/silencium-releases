@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "",
+  "force": false,
+  "changelogZh": "初始托管清单；待挂载首个 APK Release 后填写 apkUrl",
+  "changelogEn": "Initial manifest; set apkUrl after the first APK Release",
+  "changelogZhHant": "初始託管清單；待掛載首個 APK Release 後填寫 apkUrl"
+}
