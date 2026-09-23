@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/peaeae314-hub/silencium-releases/releases/download/v1.2.0/Silencium-debug.apk",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/peaeae314-hub/silencium-releases/releases/download/v1.3.0/Silencium-debug.apk",
   "force": false,
-  "changelogZh": "B14：断线重连宽限 60 秒，切到其他 App 再回来不易被踢出房间；手动离开仍立即拆房",
-  "changelogEn": "B14: 60s reconnect grace so switching apps no longer destroys the room; manual leave still tears down immediately",
-  "changelogZhHant": "B14：斷線重連寬限 60 秒，切到其他 App 再回來不易被踢出房間；手動離開仍立即拆房"
+  "changelogZh": "②+③：房间号+共享密钥进房；密钥认证握手防中继 MITM；进房/握手限速；WebRTC 密文直连失败回退中继；retained 默认关",
+  "changelogEn": "②+③: room id + shared key entry; passphrase-authenticated handshake (anti-MITM); join/handshake rate limits; WebRTC ciphertext with relay fallback; retained off by default",
+  "changelogZhHant": "②+③：房間號+共享密鑰進房；密鑰認證握手防中繼 MITM；進房/握手限速；WebRTC 密文直連失敗回退中繼；retained 預設關"
 }
