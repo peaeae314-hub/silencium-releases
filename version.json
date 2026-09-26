@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/peaeae314-hub/silencium-releases/releases/download/v1.4.0/Silencium-debug.apk",
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/peaeae314-hub/silencium-releases/releases/download/v1.5.0/Silencium-debug.apk",
   "force": false,
-  "changelogZh": "联测修复：独自进房显示等待对方；记住上次房间号/密钥；中继地址一键清空；对端重连后重新认证握手；默认 TURN+设置可改 ICE（直连失败仍回退加密中继）",
-  "changelogEn": "Joint-test fixes: alone-in-room waiting status; remember last room id/key; one-tap clear relay URL; re-auth handshake after peer reconnect; default TURN + Settings ICE (falls back to encrypted relay if direct fails)",
-  "changelogZhHant": "聯測修復：獨自進房顯示等待對方；記住上次房間號/密鑰；中繼地址一鍵清空；對端重連後重新認證握手；預設 TURN+設定可改 ICE（直連失敗仍回退加密中繼）"
+  "changelogZh": "创建房间可自定义房间号（4–64 位字母/数字/-/_）；房间号被占用时内联提示、不进入房间；服务端与加入表单校验房间号格式；修复快速重进房间时的密钥交换卡住",
+  "changelogEn": "Optional custom room id on create (4–64 letters/digits/-/_); inline \"room id already taken\" error instead of entering the room; server + join form enforce the room-id format; fixed a key-exchange stall when re-entering a room quickly",
+  "changelogZhHant": "建立房間可自訂房間號（4–64 位字母/數字/-/_）；房間號已被占用時內聯提示、不進入房間；伺服器與加入表單校驗房間號格式；修復快速重進房間時的金鑰交換卡住"
 }
